@@ -41,7 +41,10 @@
 </template>
 
 <script lang="ts" setup>
-import  ICountUp  from 'vue-countup-v3';
+import { defineAsyncComponent } from 'vue';
+
+// Dynamically import actual component
+const ICountUp = defineAsyncComponent(() => import('vue-countup-v3').then(m => m.default));
 </script>
 
 <style scoped>
