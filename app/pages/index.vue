@@ -559,6 +559,28 @@ const navLinks: { title: string; href: string }[] = [
   { title: "Blog", href: "#blog" },
   { title: "Contact Us", href: "#contact" },
 ];
+
+useSeoMeta({
+  title: 'Ebube CCTV Cameras Sales and Installation, Lagos Nigeria',
+  ogTitle: 'Ebube CCTV Cameras Sales and Installation, Lagos Nigeria',
+  ogDescription: 'Ebube CCTV Cameras Sales and Installation in Lagos, Nigeria — expert security solutions for homes, offices, and businesses. We supply and install high-quality CCTV cameras for 24/7 safety and monitoring at affordable prices.',
+  description: 'Ebube CCTV Cameras Sales and Installation in Lagos, Nigeria — expert security solutions for homes, offices, and businesses. We supply and install high-quality CCTV cameras for 24/7 safety and monitoring at affordable prices.',
+  ogImage: 'https://ebube-cctv-ltd.vercel.app/images/og.png',
+  twitterImage: 'https://ebube-cctv-ltd.vercel.app/images/og.png',
+  twitterCard: 'summary',
+  twitterCreator: '@EbubeIreneaus',
+  ogSiteName: 'Ebube CCTV Limited',
+  ogType: 'website',
+  ogUrl: 'https://ebube-cctv-ltd.vercel.app'
+})
+useHead({
+  link: [
+    {rel:'canonical', href: 'https://ebube-cctv-ltd.vercel.app'}
+  ],
+  htmlAttrs: {
+    lang: 'en-NG'
+  }
+})
 </script>
 
 <style></style>
