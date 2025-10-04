@@ -16,15 +16,15 @@
           <client-only>
             <div class="flex flex-col md:flex-row gap-x-14 gap-y-6">
               <div class="text-center">
-              <count-up class="font-bold text-3xl md:text-4xl " :end-val="13" />
+              <i-count-up class="font-bold text-3xl md:text-4xl " :end-val="13" />
               <p class="text-sm">Years of Experience</p>
             </div>
              <div class="text-center">
-              <count-up class="font-bold text-3xl md:text-4xl" :end-val="50" />
+              <i-count-up class="font-bold text-3xl md:text-4xl" :end-val="50" />
               <p class="text-sm">Unique Products</p>
             </div>
              <div class="text-center">
-              <count-up class="font-bold text-3xl md:text-4xl" :end-val="200" :options="{suffix: '+'}" />
+              <i-count-up class="font-bold text-3xl md:text-4xl" :end-val="200" :options="{suffix: '+'}" />
               <p class="text-sm">Happy Clients</p>
             </div>
             </div>
@@ -41,7 +41,7 @@
 </template>
 
 <script lang="ts" setup>
-import  CountUp  from 'vue-countup-v3';
+import  ICountUp  from 'vue-countup-v3';
 </script>
 
 <style scoped>
