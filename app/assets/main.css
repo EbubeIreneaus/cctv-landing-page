@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+@theme {
+    --color-primary: #7c8fae;
+    --color-secondary: #023a56;
+    --color-background: #f1f1f1;
+    --font-playfair: 'Playfair Display', Verdana;
+    --font-oswald: 'Oswald';
+}
+
+body {
+    @apply font-oswald bg-background;
+    position: relative;
+}
