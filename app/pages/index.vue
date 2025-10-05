@@ -487,7 +487,7 @@
           <h2 class="text-4xl font-extrabold font-playfair mb-3">
             Our Newsletter
           </h2>
-          <p class="text-slate-300">
+          <p class="text-slate-100">
             Subscribe to our newsletter for updates on the latest CCTV
             technologies, promotions, and expert security tips.
           </p>

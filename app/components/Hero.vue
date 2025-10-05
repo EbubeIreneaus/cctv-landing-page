@@ -70,7 +70,7 @@ const ICountUp = defineAsyncComponent(() =>
 
 <style scoped>
 .hero-sec {
-  background: url("~/assets/images/hero-bg.jpg");
+  background: url("~/assets/images/hero-bg.webp");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
