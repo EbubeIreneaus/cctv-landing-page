@@ -10,7 +10,10 @@
           <div class="flex flex-col gap-y-2 items-center text-white">
             <icon name="mdi:string-lights-off" size="24" />
             <p class="font-playfair text-lg">Innovation</p>
-            <p class="text-sm">Lorem ipsum dolor sit amet.</p>
+            <p class="text-sm">
+              We constantly adopt modern surveillance technologies to keep your
+              property secure and connected 24/7.
+            </p>
           </div>
         </template>
       </u-card>
@@ -21,7 +24,10 @@
           <div class="flex flex-col gap-y-2 items-center text-white">
             <icon name="mdi:trophy-award" size="24" />
             <p class="font-playfair text-lg">High Quality</p>
-            <p class="text-sm">Lorem ipsum dolor sit amet.</p>
+            <p class="text-sm">
+              Our CCTV cameras and accessories are sourced from trusted brands
+              known for durability and clear video output.
+            </p>
           </div>
         </template>
       </u-card>
@@ -30,7 +36,10 @@
           <div class="flex flex-col gap-y-2 items-center text-white">
             <icon name="mdi:checkbox-marked-circle-outline" size="24" />
             <p class="font-playfair text-lg">Best Product</p>
-            <p class="text-sm">Lorem ipsum dolor sit amet.</p>
+            <p class="text-sm">
+              From indoor to outdoor cameras, we deliver top-tier security
+              products that guarantee long-term performance.
+            </p>
           </div>
         </template>
       </u-card>
@@ -41,11 +50,15 @@
           <div class="flex flex-col gap-y-2 items-center text-white">
             <icon name="mdi:cogs" size="24" />
             <p class="font-playfair text-lg">Top Service</p>
-            <p class="text-sm">Lorem ipsum dolor sit amet.</p>
+            <p class="text-sm">
+              We combine technical expertise with excellent customer care to
+              deliver the best installation and maintenance service.
+            </p>
           </div>
         </template>
       </u-card>
     </u-container>
+
     <!-- about us -->
     <u-container class="grid md:grid-cols-2 lg:grid-cols-3 mb-24 mt-16">
       <u-card>
@@ -75,18 +88,12 @@
           <div class="">
             <h2 class="text-xl font-extrabold font-playfair">About Us</h2>
             <p class="text-sm my-4">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iste,
-              repellat cum. Neque minus nemo tempora ratione, aspernatur alias
-              illo, adipisci itaque nesciunt placeat eaque nihil quae impedit,
-              vel quia rerum voluptatum et laborum eos? Sequi, tenetur
-              architecto. Vitae iure, molestias cum non quod similique facilis,
-              sapiente ratione minima distinctio ab. Similique quo natus dolores
-              magni laboriosam, cupiditate eum modi at adipisci quam, veniam
-              doloribus amet rem? Adipisci accusantium similique modi dolorum at
-              pariatur quam? Maiores similique quos laborum odio ipsam
-              excepturi, quod tempora eos itaque fugiat nostrum inventore
-              veritatis natus aliquam! Modi consequatur laboriosam ut
-              reprehenderit. Earum maxime tenetur non.
+              Ebube CCTV Cameras is a trusted provider of security surveillance
+              solutions in Lagos, Nigeria. We specialize in the sales,
+              installation, and maintenance of CCTV systems for residential,
+              commercial, and industrial clients. Our mission is to make homes
+              and businesses safer through modern technology that provides
+              real-time monitoring, remote access, and complete peace of mind.
             </p>
             <u-button color="secondary" label="Learn More" />
           </div>
@@ -96,8 +103,8 @@
         <template #default>
           <h2 class="text-xl font-playfair font-extrabold">Why Choose Us</h2>
           <p class="text-sm my-3">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum,
-            eos.
+            We go beyond just selling cameras — we build reliable security
+            systems designed to protect what matters most.
           </p>
           <div class="flex flex-col gap-5">
             <div class="flex gap-x-3">
@@ -106,11 +113,11 @@
               </div>
               <div>
                 <h3 class="font-playfair font-bold text-lg mb-3">
-                  23 years of Experience
+                  23 Years of Experience
                 </h3>
                 <p class="text-sm">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio
-                  non natus molestiae.
+                  Our team has decades of combined experience delivering trusted
+                  security solutions across Nigeria.
                 </p>
               </div>
             </div>
@@ -124,8 +131,8 @@
                   24/7 Customer Support
                 </h3>
                 <p class="text-sm">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio
-                  non natus molestiae.
+                  Whether it’s a technical question or emergency service, our
+                  support team is always available to assist.
                 </p>
               </div>
             </div>
@@ -143,8 +150,8 @@
                   Industry Certified
                 </h3>
                 <p class="text-sm">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio
-                  non natus molestiae.
+                  We are trained and certified to handle CCTV installations that
+                  meet global safety and quality standards.
                 </p>
               </div>
             </div>
@@ -158,8 +165,8 @@
         <div class="grow">
           <h2 class="text-2xl font-playfair font-extrabold">Our Partners</h2>
           <p class="text-sm">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod,
-            voluptatem.
+            We proudly collaborate with leading CCTV and security brands to
+            ensure every project delivers unmatched reliability.
           </p>
         </div>
         <div class="grow flex justify-between flex-wrap">
@@ -198,10 +205,10 @@
           </div>
           <div class="grow">
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Molestias, repellat nostrum. Distinctio dolorum sint maiores eius
-              odio, non error qui corporis deserunt, ipsa exercitationem quod!
-              Corrupti quidem similique incidunt. Quam.
+              From small apartments to large commercial complexes, our CCTV
+              solutions are customized to meet each client’s security needs. We
+              focus on clarity, coverage, and reliability — ensuring you can
+              monitor your property from anywhere.
             </p>
             <u-button
               label="learn more"
@@ -223,8 +230,8 @@
                 />
                 <h3 class="text-2xl font-extrabold">Security Camera</h3>
                 <p class="text-center text-slate-100">
-                  We bring the right people together to challenge extablish
-                  thinking and drive transform in 2025
+                  We install indoor, outdoor, and wireless cameras that provide
+                  clear video footage and long-range night vision.
                 </p>
                 <u-button
                   label="learn More"
@@ -242,8 +249,8 @@
                 <icon name="mdi:bell" size="28" class="" />
                 <h3 class="text-2xl font-extrabold">Fire Detection</h3>
                 <p class="text-center">
-                  We bring the right people together to challenge extablish
-                  thinking and drive transform in 2025
+                  We design and install advanced smoke and fire detection
+                  systems that alert you instantly during emergencies.
                 </p>
                 <u-button
                   label="learn More"
@@ -261,8 +268,8 @@
                 <icon name="mdi:video-input-antenna" size="28" class="" />
                 <h3 class="text-2xl font-extrabold">Smart Home</h3>
                 <p class="text-center">
-                  We bring the right people together to challenge extablish
-                  thinking and drive transform in 2025
+                  Experience full home automation — control your cameras,
+                  lights, and alarms directly from your smartphone.
                 </p>
                 <u-button
                   label="learn More"
@@ -280,19 +287,16 @@
     <div
       class="bg-[url('~/assets/images/camera-bg.webp')] relative bg-no-repeat bg-cover bg-center mb-24"
     >
-      <div class="absolute size-full bg-secondary/80 z-10"></div>
+      <div class="absolute size-full bg-primary/80 z-10"></div>
       <div class="text-white relative z-30 grid md:grid-cols-2 py-10">
         <u-card class="bg-transparent max-w-lg mx-auto ring-0">
           <h2 class="text-5xl font-bold font-playfair">
             Monitor Your Workplace From Your Phone
           </h2>
           <p class="my-5">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, ex
-            illo ducimus possimus sed temporibus in veniam nisi quos provident
-            eum rerum similique laudantium culpa necessitatibus amet facilis
-            sequi doloremque delectus eos dicta quo sit vero vitae. Officia qui
-            magnam veritatis sed itaque culpa, nemo provident eum voluptate
-            eveniet deserunt.
+            Stay in control even when you’re away. Our smart CCTV systems allow
+            real-time video streaming, motion detection alerts, and cloud
+            storage — all accessible from your mobile device or desktop.
           </p>
           <u-button
             label="learn more"
@@ -320,6 +324,7 @@
                 class="w-full"
                 placeholder="Select"
                 :ui="{ base: 'placeholder:text-secondary' }"
+                aria-label="select options"
               />
             </u-form-field>
             <u-form-field label="" class="mb-5">
@@ -351,8 +356,8 @@
             Our Working Process
           </h2>
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit
-            impedit ipsam illo veritatis hic.
+            We follow a simple yet effective workflow that ensures every CCTV
+            system is properly installed and performs perfectly.
           </p>
         </div>
 
@@ -375,8 +380,8 @@
                   Discussion
                 </h2>
                 <p class="">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde
-                  non maxime distinctio exercitationem voluptatem
+                  We begin by understanding your security goals, property
+                  layout, and preferred surveillance features.
                 </p>
               </div>
             </template>
@@ -404,8 +409,8 @@
                   Installation
                 </h2>
                 <p class="">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde
-                  non maxime distinctio exercitationem voluptatem
+                  Our experts install high-definition cameras and recording
+                  systems with clean cable management and full testing.
                 </p>
               </div>
             </template>
@@ -430,11 +435,11 @@
                   <icon name="mdi:hammer-wrench" size="30" class="text-white" />
                 </div>
                 <h2 class="text-2xl font-extrabold font-playfair mt-5 mb-2">
-                  Maintainance
+                  Maintenance
                 </h2>
                 <p class="">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde
-                  non maxime distinctio exercitationem voluptatem
+                  We provide ongoing technical support, system upgrades, and
+                  routine checks to keep your security system reliable.
                 </p>
               </div>
             </template>
@@ -446,39 +451,45 @@
     <div
       class="bg-[url('~/assets/images/camera-bg.webp')] relative bg-no-repeat bg-cover bg-center mb-24"
     >
-      <div class="absolute size-full bg-secondary/80 z-10"></div>
+      <div class="absolute size-full bg-primary/80 z-10"></div>
       <div class="text-white relative z-30 py-20 max-w-lg mx-auto px-3">
         <h2 class="text-4xl font-extrabold font-playfair text-center">
           Security Solution For Your Work and Home
         </h2>
         <p class="text-center my-6">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veritatis
-          iste nisi, porro non, natus laboriosam ullam labore quisquam
-          consequuntur quidem ut inventore minus, temporibus quas? Incidunt
-          animi ab autem voluptatem?
+          We deliver complete surveillance solutions for homes, offices,
+          schools, and industries. Our systems are designed to give you peace of
+          mind and control — anytime, anywhere.
         </p>
 
         <div class="flex justify-center gap-x-5 items-center">
-          <u-button label="Learn More" size="xl" color="secondary" aria-label="learn more" />
+          <u-button
+            label="Learn More"
+            size="xl"
+            color="secondary"
+            aria-label="learn more"
+          />
           <u-button
             icon="mdi:play"
             size="xl"
             class="rounded-full ring-2 hover:ring-4 ring-slate-100 shadow-md shadow-slate-100"
-            aria-label=""
+            aria-label="Watch youtube video"
           />
         </div>
       </div>
     </div>
 
     <footer class="bg-primary text-slate-100">
-      <u-container class="flex flex-col md:flex-row gap-y-6 items-center justify-between py-14">
+      <u-container
+        class="flex flex-col md:flex-row gap-y-6 items-center justify-between py-14"
+      >
         <div class="flex-grow text-center md:text-left">
-          <h2 class="text-4xl font-extrabold font-playfair mb-3 ">
+          <h2 class="text-4xl font-extrabold font-playfair mb-3">
             Our Newsletter
           </h2>
           <p class="text-slate-300">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,
-            molestias.
+            Subscribe to our newsletter for updates on the latest CCTV
+            technologies, promotions, and expert security tips.
           </p>
         </div>
         <div class="flex gap-x-5 items-center flex-grow">
@@ -503,47 +514,58 @@
         <div
           class="bg-[url('~/assets/images/camera-bg.webp')] relative bg-no-repeat bg-cover bg-center"
         >
-          <div class="absolute size-full bg-secondary/80 z-10"></div>
+          <div class="absolute size-full bg-primary/80 z-10"></div>
           <u-container
-            class="text-white relative z-30 grid md:grid-cols-2 lg:grid-cols-3 gap-y-10 gap-x-5 py-20"
+            class="text-white relative z-30 grid md:grid-cols-2 lg:grid-cols-4 py-20"
           >
             <div>
-              <p class="mb-5">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Est
-                sequi maiores quaerat facilis blanditiis iusto quibusdam?
-                Expedita veritatis voluptatum eum inventore, dolore odit
-                temporibus magnam deleniti ex quibusdam non recusandae.
+              <h2 class="text-xl font-bold font-playfair mb-3">About</h2>
+              <p class="text-sm text-slate-100">
+                Ebube CCTV Cameras provides premium sales and professional
+                installation of CCTV and security systems across Lagos, Nigeria.
+                We help you protect what matters most with cutting-edge
+                surveillance technology.
               </p>
-              <div class="flex gap-x-4">
-                <u-button icon="mdi:facebook" color="secondary" aria-label="facebook page" />
-                <u-button icon="mdi:instagram" color="secondary" aria-label="instagram page" />
-                <u-button icon="mdi:twitter" color="secondary" aria-label="twitter page" />
-              </div>
             </div>
-
             <div>
-              <div class="w-fit md:mx-auto">
-              <h2 class="text-xl mb-2">Navigation</h2>
-              <ul>
-                <li v-for="link in navLinks" :key="link.title" class="mb-2 hover:scale-115 transition-transform ease-linear duration-300">
-                 &gt; <NuxtLink :to="link.href">{{ link.title }}</NuxtLink>
-                </li>
+              <h2 class="text-xl font-bold font-playfair mb-3">Quick Links</h2>
+              <ul class="text-sm space-y-2">
+                <li>Home</li>
+                <li>About</li>
+                <li>Services</li>
+                <li>Contact</li>
               </ul>
             </div>
+            <div>
+              <h2 class="text-xl font-bold font-playfair mb-3">Services</h2>
+              <ul class="text-sm space-y-2">
+                <li>CCTV Installation</li>
+                <li>Fire Detection Systems</li>
+                <li>Smart Home Automation</li>
+                <li>Security Maintenance</li>
+              </ul>
             </div>
-
-            <div class="lg:text-center">
-              <h2 class="text-xl">Work Hours</h2>
-              <div class="mb-3">
-                <p class="mb-3"><icon name="mdi:map-marker-radius-outline" /> 7am - 5pm Mon - Sat</p>
-                <p>Lorem ipsum dolor sit amet consectetur.</p>
-              </div>
-              <u-button label="Call Now" icon="mdi:phone" href="https://wa.me/+2348061982520" color="secondary" aria-label="Call Us Now" />
+            <div>
+              <h2 class="text-xl font-bold font-playfair mb-3">Contact</h2>
+              <ul class="text-sm space-y-2 mb-3">
+                <li>
+                  <icon name="mdi:map-marker-multiple-outline" /> Lagos, Nigeria
+                </li>
+                <li>&am - 5pm Mon - Sat</li>
+                <li>info@ebubecctv.com</li>
+              </ul>
+              <u-button
+                href="https://wa.me/+2348061982520"
+                icon="mdi:phone"
+                label="Call Now"
+                size="xl"
+                color="secondary"
+              />
             </div>
           </u-container>
 
-          <div class="text-slate-200 text-center relative z-30 py-3">
-            Developed By <a href="https://rankwithebube.com" aria-label="rank with ebube .com" class="text-info underline underline-offset-2" target="_blank">Rank With Ebube</a>
+          <div class="relative z-30 text-center py-1">
+            <p>Designed By <a href="https://rankwithebube.com" class="text-secondary underline underline-offset-2">rankwithebube.com</a></p>
           </div>
         </div>
       </div>
@@ -561,26 +583,26 @@ const navLinks: { title: string; href: string }[] = [
 ];
 
 useSeoMeta({
-  title: 'Ebube CCTV Cameras Sales and Installation, Lagos Nigeria',
-  ogTitle: 'Ebube CCTV Cameras Sales and Installation, Lagos Nigeria',
-  ogDescription: 'Ebube CCTV Cameras Sales and Installation in Lagos, Nigeria — expert security solutions for homes, offices, and businesses. We supply and install high-quality CCTV cameras for 24/7 safety and monitoring at affordable prices.',
-  description: 'Ebube CCTV Cameras Sales and Installation in Lagos, Nigeria — expert security solutions for homes, offices, and businesses. We supply and install high-quality CCTV cameras for 24/7 safety and monitoring at affordable prices.',
-  ogImage: 'https://ebube-cctv-ltd.vercel.app/images/og.png',
-  twitterImage: 'https://ebube-cctv-ltd.vercel.app/images/og.png',
-  twitterCard: 'summary',
-  twitterCreator: '@EbubeIreneaus',
-  ogSiteName: 'Ebube CCTV Limited',
-  ogType: 'website',
-  ogUrl: 'https://ebube-cctv-ltd.vercel.app'
-})
+  title: "Ebube CCTV Cameras Sales and Installation, Lagos Nigeria",
+  ogTitle: "Ebube CCTV Cameras Sales and Installation, Lagos Nigeria",
+  ogDescription:
+    "Ebube CCTV Cameras Sales and Installation in Lagos, Nigeria — expert security solutions for homes, offices, and businesses. We supply and install high-quality CCTV cameras for 24/7 safety and monitoring at affordable prices.",
+  description:
+    "Ebube CCTV Cameras Sales and Installation in Lagos, Nigeria — expert security solutions for homes, offices, and businesses. We supply and install high-quality CCTV cameras for 24/7 safety and monitoring at affordable prices.",
+  ogImage: "https://ebube-cctv-ltd.vercel.app/images/og.png",
+  twitterImage: "https://ebube-cctv-ltd.vercel.app/images/og.png",
+  twitterCard: "summary",
+  twitterCreator: "@EbubeIreneaus",
+  ogSiteName: "Ebube CCTV Limited",
+  ogType: "website",
+  ogUrl: "https://ebube-cctv-ltd.vercel.app",
+});
 useHead({
-  link: [
-    {rel:'canonical', href: 'https://ebube-cctv-ltd.vercel.app'}
-  ],
+  link: [{ rel: "canonical", href: "https://ebube-cctv-ltd.vercel.app" }],
   htmlAttrs: {
-    lang: 'en-NG'
-  }
-})
+    lang: "en-NG",
+  },
+});
 </script>
 
 <style></style>

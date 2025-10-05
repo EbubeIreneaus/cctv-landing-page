@@ -2,7 +2,7 @@
 @import "@nuxt/ui";
 
 @theme {
-    --color-primary: #7c8fae;
+    --color-primary: #536075;
     --color-secondary: #023a56;
     --color-background: #f1f1f1;
     --font-playfair: 'Playfair Display', Verdana;
