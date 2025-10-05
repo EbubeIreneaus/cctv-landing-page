@@ -4,13 +4,13 @@
     <Hero />
     <u-container class="grid md:grid-cols-2 lg:grid-cols-4 my-10 mb-24">
       <u-card
-        class="bg-primary rounded-none rounded-t-lg md:rounded-tl-lg lg:rounded-l-lg ring-0"
+        class="bg-primary rounded-none rounded-t-lg md:rounded-tl-lg lg:rounded-l-lg ring-0 py-5"
       >
         <template #default>
           <div class="flex flex-col gap-y-2 items-center text-white">
             <icon name="mdi:string-lights-off" size="24" />
             <p class="font-playfair text-lg">Innovation</p>
-            <p class="text-sm">
+            <p class="lg:text-sm text-center lg:text-left">
               We constantly adopt modern surveillance technologies to keep your
               property secure and connected 24/7.
             </p>
@@ -18,25 +18,25 @@
         </template>
       </u-card>
       <u-card
-        class="bg-primary rounded-none md:rounded-tr-lg lg:rounded-none ring-0"
+        class="bg-primary rounded-none md:rounded-tr-lg lg:rounded-none ring-0 py-5"
       >
         <template #default>
           <div class="flex flex-col gap-y-2 items-center text-white">
             <icon name="mdi:trophy-award" size="24" />
             <p class="font-playfair text-lg">High Quality</p>
-            <p class="text-sm">
+            <p class="lg:text-sm text-center lg:text-left">
               Our CCTV cameras and accessories are sourced from trusted brands
               known for durability and clear video output.
             </p>
           </div>
         </template>
       </u-card>
-      <u-card class="bg-secondary scale-105 md:scale-110 ring-0">
+      <u-card class="bg-secondary scale-105 md:scale-110 ring-0 py-5">
         <template #default>
           <div class="flex flex-col gap-y-2 items-center text-white">
             <icon name="mdi:checkbox-marked-circle-outline" size="24" />
             <p class="font-playfair text-lg">Best Product</p>
-            <p class="text-sm">
+            <p class="lg:text-sm text-center lg:text-left">
               From indoor to outdoor cameras, we deliver top-tier security
               products that guarantee long-term performance.
             </p>
@@ -44,13 +44,13 @@
         </template>
       </u-card>
       <u-card
-        class="bg-primary grow rounded-none rounded-b-lg md:rounded-br-lg lg:rounded-r-lg ring-0"
+        class="bg-primary grow rounded-none rounded-b-lg md:rounded-br-lg lg:rounded-r-lg ring-0 py-5"
       >
         <template #default>
           <div class="flex flex-col gap-y-2 items-center text-white">
             <icon name="mdi:cogs" size="24" />
             <p class="font-playfair text-lg">Top Service</p>
-            <p class="text-sm">
+            <p class="lg:text-sm text-center lg:text-left">
               We combine technical expertise with excellent customer care to
               deliver the best installation and maintenance service.
             </p>
@@ -87,7 +87,7 @@
         <template #default>
           <div class="">
             <h2 class="text-xl font-extrabold font-playfair">About Us</h2>
-            <p class="text-sm my-4">
+            <p class="my-5">
               Ebube CCTV Cameras is a trusted provider of security surveillance
               solutions in Lagos, Nigeria. We specialize in the sales,
               installation, and maintenance of CCTV systems for residential,
@@ -102,7 +102,7 @@
       <u-card class="px-10 py-5">
         <template #default>
           <h2 class="text-xl font-playfair font-extrabold">Why Choose Us</h2>
-          <p class="text-sm my-3">
+          <p class=" my-3">
             We go beyond just selling cameras — we build reliable security
             systems designed to protect what matters most.
           </p>
@@ -115,7 +115,7 @@
                 <h3 class="font-playfair font-bold text-lg mb-3">
                   23 Years of Experience
                 </h3>
-                <p class="text-sm">
+                <p class="">
                   Our team has decades of combined experience delivering trusted
                   security solutions across Nigeria.
                 </p>
@@ -130,7 +130,7 @@
                 <h3 class="font-playfair font-bold text-lg mb-3">
                   24/7 Customer Support
                 </h3>
-                <p class="text-sm">
+                <p class="">
                   Whether it’s a technical question or emergency service, our
                   support team is always available to assist.
                 </p>
@@ -149,7 +149,7 @@
                 <h3 class="font-playfair font-bold text-lg mb-3">
                   Industry Certified
                 </h3>
-                <p class="text-sm">
+                <p class="">
                   We are trained and certified to handle CCTV installations that
                   meet global safety and quality standards.
                 </p>
@@ -164,7 +164,7 @@
       <div class="flex flex-col lg:flex-row gap-y-4 items-center">
         <div class="grow">
           <h2 class="text-2xl font-playfair font-extrabold">Our Partners</h2>
-          <p class="text-sm">
+          <p class="">
             We proudly collaborate with leading CCTV and security brands to
             ensure every project delivers unmatched reliability.
           </p>
@@ -197,7 +197,7 @@
 
     <u-container class="my-10 py-5">
       <div>
-        <div class="flex flex-col md:flex-row justify-between">
+        <div class="flex flex-col md:flex-row justify-between mb-16">
           <div class="grow w-full">
             <h2 class="font-playfair text-4xl font-extrabold">
               We Provide The Best Services
@@ -516,10 +516,10 @@
         >
           <div class="absolute size-full bg-primary/80 z-10"></div>
           <u-container
-            class="text-white relative z-30 grid md:grid-cols-2 lg:grid-cols-4 py-20"
+            class="text-white relative z-30 grid md:grid-cols-2 lg:grid-cols-4 py-20 gap-y-7"
           >
             <div>
-              <h2 class="text-xl font-bold font-playfair mb-3">About</h2>
+              <h2 class="text-xl font-bold font-playfair mb-3">About Us</h2>
               <p class="text-sm text-slate-100">
                 Ebube CCTV Cameras provides premium sales and professional
                 installation of CCTV and security systems across Lagos, Nigeria.
@@ -530,19 +530,19 @@
             <div>
               <h2 class="text-xl font-bold font-playfair mb-3">Quick Links</h2>
               <ul class="text-sm space-y-2">
-                <li>Home</li>
-                <li>About</li>
-                <li>Services</li>
-                <li>Contact</li>
+                <li>&gt; Home</li>
+                <li>&gt; About</li>
+                <li>&gt; Services</li>
+                <li>&gt; Contact</li>
               </ul>
             </div>
             <div>
               <h2 class="text-xl font-bold font-playfair mb-3">Services</h2>
               <ul class="text-sm space-y-2">
-                <li>CCTV Installation</li>
-                <li>Fire Detection Systems</li>
-                <li>Smart Home Automation</li>
-                <li>Security Maintenance</li>
+                <li>&gt; CCTV Installation</li>
+                <li>&gt; Fire Detection Systems</li>
+                <li>&gt; Smart Home Automation</li>
+                <li>&gt; Security Maintenance</li>
               </ul>
             </div>
             <div>
